@@ -379,7 +379,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Septian Samdany**
 - GitHub: [@SeptianSamdany](https://github.com/SeptianSamdany)
-- Email: your.email@example.com
+- Email: septiansamdani05@gmail.com
 
 ## 🙏 Acknowledgments
 
